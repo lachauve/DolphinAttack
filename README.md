@@ -4,7 +4,7 @@ https://toulousehackingconvention.fr/
 
 Qu'est-ce que la Dolphin Attack ? 
 
-La dolphin Attack est une attaque par ultrasons qui cible les appareils à reconnaissance vocale tels que Siri, Alexa (Amazon Echo), OkGoogle, Cortana (Microsoft) mais aussi ceux de certaines voitures. L'objectif est de reproduire la voix humaine dans des fréquences inaudibles pour un humain (au-delà de 20kHz). 
+La dolphin Attack est une attaque par ultrasons qui cible les appareils à reconnaissance vocale tels que Siri, Alexa (Amazon Echo), OkGoogle, Cortana (Microsoft) mais aussi ceux de certaines voitures. L'objectif est de reproduire la voix humaine dans des fréquences inaudibles pour un humain (au-delà de 20kHz). Je me suis inspirée du papier de recherche suivant : https://endchan.xyz/.media/50cf379143925a3926298f881d3c19ab-applicationpdf.pdf   Dans le cas où vous souhaiteriez mettre en oeuvre cette attaque je ne peux que vous conseiller de le lire, vous y trouverez toutes les informations nécessaires.
 
 A quoi peut servir cette attaque ? 
 
