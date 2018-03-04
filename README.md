@@ -14,6 +14,7 @@ Aujourd'hui, de plus en plus de gens utilisent les appareils à reconnaissance v
 - Les appareils à reconnaissance vocale permettent d'avoir des maisons de plus en plus connectées, imaginez qu'un appareil puisse gérer l'ouverture des volets ou voir même celle des portes d'un appartement. Dans le cas où le résident est absent pensez aux dégâts que cette attaque peut causer !
 - La dernière attaque n'est pas encore actuelle, elle concerne les voitures autonomes/ intelligentes. Je vous laisse imaginer toutes les attaques qu'il pourra être possible de réaliser dans le cas où les constructeurs ne tiennent pas compte de cette faille.
 
+Pour résumer, la DolphinAttack peut servir de base pour des attaques ayant des conséquences plus importantes, mais la DolphinAttack seule ne peut pas être qualifiée de dévastatrice.
 
 Matériel nécessaire à l'attaque.
 - Un émetteur : expérience faite avec un MacBook Pro (Retina - macOS HighSierra - processor 2,2 GHz Intel Core i7)
