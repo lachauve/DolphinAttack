@@ -36,4 +36,5 @@ Les résultats des expériences peuvent être plus ou moins aléatoires surtout 
 N'hésitez pas à aller lire les deux exploits suivants, ce sont ceux de collègues sur l'attaque BlueBone. Vous pouvez les utiliser afin d'attaquer les assistants vocaux tels que Alexa afin d'obtenir les droits root dessus.
 
 https://github.com/AxelRoudaut/THC_BlueBorne 
+
 https://github.com/2Dai/Bluesploit
