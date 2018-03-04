@@ -33,5 +33,6 @@ Approchez le microphone de votre appareil à reconnaissance vocale de votre éme
 Les résultats des expériences peuvent être plus ou moins aléatoires surtout dans le cas où les appareils à reconnaissance vocale sont "speaker-dependant" c'est-à-dire qu'ils reconnaissent la voix de l'utilisateur. C'est le cas de Siri par exemple. Dans ce cas assurez-vous que la voix utilisée est bien celle qui permet de déverrouiller le téléphone. Il est possible de faire une attaque par force brute car deux voix qui se ressemblent peuvent activer la reconnaissance vocale. Pour cela je vous conseille d'utiliser des TTS (text-to-speech) qui permettent d'imiter la majorité des voix humaines. Cependant, l'attaque est plus facile dans le cas des "speaker-independant", ce qui est le cas de OK Google, ou Alexa par exemple.
 
 
-
+N'hésitez pas à aller lire les deux exploits suivants, ce sont ceux de collègues sur l'attaque BlueBone. Vous pouvez les utiliser afin d'attaquer les assistants vocaux tels que Alexa afin d'obtenir les droits root dessus.
 https://github.com/AxelRoudaut/THC_BlueBorne
+https://github.com/2Dai/Bluesploit
