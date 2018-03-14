@@ -38,3 +38,6 @@ N'hésitez pas à aller lire les deux exploits suivants, ce sont ceux de collèg
 https://github.com/AxelRoudaut/THC_BlueBorne 
 
 https://github.com/2Dai/Bluesploit
+
+
+(If you need more informations feel free to send me a message : mathilde.chauvet@live.fr )
